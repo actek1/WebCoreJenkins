@@ -14,7 +14,7 @@ namespace WebCoreJenkins.Controllers
         //Comentario nuevo trigger 1
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chi", "Cool", "Mi", "Warm", "Bal", "Hot", "Sweltering", "Scorching"
+            "Freez", "Brac", "Chi", "Cool", "Mi", "War", "Bal", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
