@@ -11,6 +11,7 @@ namespace WebCoreJenkins.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
+        //Comentario nuevo trigger 1
         private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chi", "Cool", "Mi", "Warm", "Bal", "Hot", "Sweltering", "Scorching"
